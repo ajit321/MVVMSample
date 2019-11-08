@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">MVVMSample</string>
+
+    <string name="home">Home </string>
+        
+    <string name="system">system</string>
+        
+    <string name="navigation">Navigation </string>
+        
+    <string name="project_type">project classification </string>
+        
+    <string name="tool">Tools</string>
+
+        
+    <string name="brvah_loading">Loading...</string>
+        
+    <string name="brvah_load_failed">Load failed, please click me to try again</string>
+        
+    <string name="brvah_load_end">No more data</string>
+        
+    <string name="is_loading">Loading...</string>
+        
+    <string name="search">search</string>
+        
+    <string name="try_another_key"> Try another keyword! </string>
+        
+    <string name="username">username </string>
+        
+    <string name="password">password</string>
+        
+    <string name="login">login </string>
+        
+    <string name="please_input_username">Please enter the username </string>
+        
+    <string name="please_input_psw">Please enter a password</string>
+        
+    <string name="is_logining">Logging in</string>
+        
+    <string name="or">Or</string>
+        
+    <string name="register">register </string>
+        
+    <string name="is_registering">Registering </string>
+        
+    <string name="my_collect">My Favorites</string>
+        
+    <string name="collect">collection </string>
+        
+    <string name="about">about</string>
+        
+    <string name="open_issue"> mention issue</string>
+        
+    <string name="send_email">mail </string>
+        
+    <string name="sendto">mailto:sunluyao1993x@gmail.com</string>
+        
+    <string name="mail_topic">Wanandroid feedback</string>
+        
+    <string name="license">open source protocol </string>
+        
+    <string name="source_url">source code address </string>
+        
+    <string name="feedback">Feedback</string>
+        
+    <string name="third_lib">third-party library</string>
+        
+    <string name="developer">developer </string>
+        
+    <string name="lasted_project"> latest project </string>
+        
+    <string name="blog">public number </string>
+        
+    <string name="search_article">\u00A0\u00A0 search article </string>
+        
+    <string name="net_error">Network exception!</string>
+        
+    <string name="please_input_title">Please enter the title </string>
+        
+    <string name="please_input_url">Please enter the link </string>
+        
+    <string name="share">share</string>
+        
+    <string name="share_article">Share article </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

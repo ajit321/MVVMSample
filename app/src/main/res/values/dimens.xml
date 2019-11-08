@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_50">50dp</dimen>
+
+    <!--Here is padding -->
+    <dimen name="padding_50">50dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_32">32dp</dimen>
+    <dimen name="padding_6">6dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_14">14dp</dimen>
+
+    <!--Here is Margin -->
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_75">75dp</dimen>
+
+    <dimen name="margin_47">47dp</dimen>
+    <dimen name="margin_45">45dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_14">14dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_32">32dp</dimen>
+    <dimen name="margin_28">28dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
+    <dimen name="margin_120">120dp</dimen>
+    <dimen name="margin_150">150dp</dimen>
+    <dimen name="margin_170">170dp</dimen>
+    <dimen name="margin_200">200dp</dimen>
+    <dimen name="margin_300">300dp</dimen>
+    <dimen name="margin_325">325dp</dimen>
+
+    <dimen name="margin_350">350dp</dimen>
+    <dimen name="margin_370">370dp</dimen>
+    <dimen name="margin_250">250dp</dimen>
+    <dimen name="margin_400">400dp</dimen>
+
+    <dimen name="margin_450">450dp</dimen>
+    <!--Here is SP -->
+    <dimen name="sp_4">4sp</dimen>
+    <dimen name="sp_6">6sp</dimen>
+    <dimen name="sp_11_5">11.5sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_15">15sp</dimen>
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="sp_19_2">19.2sp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+    <dimen name="sp_22">16sp</dimen>
+    <dimen name="sp_26">26sp</dimen>
+    <dimen name="sp_0_16">-0.16sp</dimen>
+    <dimen name="sp_42">42sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="lat_long_text_size">16sp</dimen>
+    <dimen name="text_margin">24dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+</resources>
